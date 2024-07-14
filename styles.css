@@ -41,6 +41,7 @@ body{
     font-size: 15px;
     color: var(--secondary-color-grayish-blue);
     line-height: 1.5;
+    font-family: 'poppinsRegular';
 }
 .container{
     
@@ -62,6 +63,7 @@ body{
 .grayish-blue{
     font-family: 'poppinsLight';
     color: var(--secondary-color-dark-blue);
+    
     font-size: 30px;
 }
 .dark-blue{
